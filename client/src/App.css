@@ -1,0 +1,10 @@
+.App {
+  background: linear-gradient(325deg, #262626 100%, #121212 100%, #262626 50%);
+  height: 100vh;
+  width: 100vw;
+}
+
+
+* {
+  box-sizing: border-box;
+}
