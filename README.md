@@ -1,1 +1,3 @@
-# chat_app
+# Chat Application
+
+# Live - https://sunero.netlify.app/
