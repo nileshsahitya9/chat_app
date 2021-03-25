@@ -7,10 +7,10 @@ import {
 
 
 // import Join Component
-import Join from '../Components/Join';
+import Join from '../components/join';
 
 // import Chat Component
-import Chat from '../Components/Chat';
+import Chat from '../components/chat';
 
 export default function App() {
     return (

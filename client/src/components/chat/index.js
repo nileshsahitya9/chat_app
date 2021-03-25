@@ -21,7 +21,7 @@ const Chat = ({ location }) => {
         isTyping: false,
         userName: ''
     });
-    const ENDPOINT = 'http://localhost:5000/';
+    const ENDPOINT = 'https://private-chat-room-app.herokuapp.com/';
 
 
 

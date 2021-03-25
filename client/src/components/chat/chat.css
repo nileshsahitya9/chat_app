@@ -116,7 +116,7 @@
 .self__message__title {
   margin-bottom: 5px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 
 .self__message__title span {
